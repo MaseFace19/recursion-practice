@@ -1,1 +1,5 @@
-# recursion-practice
+You have been approached by a medical doctor regarding one of her patients. The patient’s weight has been fluctuating wildly over the last year (see figure below and file Weight.txt), which might be an indication of diabetes or some other serious disease. In order to make an accurate diagnosis the doctor must know the maximum number of continuous days that the patient’s weight did not fluctuate by 2.5kg or more. For example, from day 1 there was a period of 87 days were the patient’s weight did not deviate by more than 2.5kg from the weight on day 1. From day 183 the patient’s weight only stayed within the 2.5kg range for 76 days.     
+ 
+
+1.	Read the contents of the file Weight.txt into a list data structure of your choice.
+2.	Do the following without using any loops (use recursion):  Write code to determine the longest continuous sequence of days that the patient’s weight did not fluctuate by more than 2.5kg. Display the number days in the sequence and the day on which the sequence starts.
