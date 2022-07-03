@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.IO;
 
-namespace Task_02
+namespace Task
 {
     class LinkedList
     {
